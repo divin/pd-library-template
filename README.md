@@ -14,6 +14,7 @@ This template includes the following folders and files:
 
 To make this template work for you, please do the following:
 
+- [ ] **Get submodules**: Run `git submodule update --init --recursive` to get the submodules for the Playdate SDK and LuaCATS.
 - [ ] **Update the README**: Edit the `README.md` file to reflect your project details.
 - [ ] **Write your library code**: Add your library code to the `source` folder. You can create subfolders if needed.
 - [ ] **Adjust the `demo/main.lua`**: Modify the `demo/main.lua` file to include a demo of your library. This is where you can showcase how to use your library and its features.
